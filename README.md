@@ -1,5 +1,5 @@
 # Simulink-Sims
-Simulink models for various points along simulation journey!
+Simulink models for various points along MPPT simulation journey!
 
 # mpptproject_solarcellsweep
 simulink model for easily sweeping through operating points of simulated solar cell 
